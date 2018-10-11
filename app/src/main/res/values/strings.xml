@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentPortal</string>
+    <string name="urltext">https://</string>
+    <string name="url">URL</string>
+    <string name="title">Title</string>
+    <string name="addportal">Add Portal</string>
+</resources>
